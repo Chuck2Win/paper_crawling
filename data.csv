@@ -1,0 +1,601 @@
+,title,abstract,refers
+0,[PDF] Language models are unsupervised multitask learners,"Natural language processing tasks, such as question answering, machine translation,
+reading comprehension, and summarization, are typically approached with supervised …",3406회 인용
+1,"fairseq: A fast, extensible toolkit for sequence modeling","fairseq is an open-source sequence modeling toolkit that allows researchers and
+developers to train custom models for translation, summarization, language modeling, and …",1637회 인용
+2,"The design and implementation of xiaoice, an empathetic social chatbot","This article describes the development of Microsoft XiaoIce, the most popular social chatbot
+in the world. XiaoIce is uniquely designed as an artifical intelligence companion with an …",384회 인용
+3,Recipes for building an open-domain chatbot,"Building open-domain chatbots is a challenging area for machine learning research. While
+prior work has shown that scaling neural models in the number of parameters and the size of …",381회 인용
+4,Retrieval-augmented generation for knowledge-intensive nlp tasks,"Large pre-trained language models have been shown to store factual knowledge in their
+parameters, and achieve state-of-the-art results when fine-tuned on downstream NLP tasks …",370회 인용
+5,Poly-encoders: Transformer architectures and pre-training strategies for fast and accurate multi-sentence scoring,"The use of deep pre-trained bidirectional transformers has led to remarkable progress in a
+number of applications (Devlin et al., 2018). For tasks that make pairwise comparisons …",253회 인용
+6,The second conversational intelligence challenge (convai2),"We describe the setting and results of the ConvAI2 NeurIPS competition that aims to further
+the state-of-the-art in open-domain chatbots. Some key takeaways from the competition …",225회 인용
+7,Topical-Chat: Towards Knowledge-Grounded Open-Domain Conversations.,"Building socialbots that can have deep, engaging open-domain conversations with humans
+is one of the grand challenges of artificial intelligence (AI). To this end, bots need to be able …",157회 인용
+8,What makes a good conversation? how controllable attributes affect human judgments,"A good conversation requires balance--between simplicity and detail; staying on topic and
+changing it; asking questions and answering them. Although dialogue agents are commonly …",144회 인용
+9,Challenges in building intelligent open-domain dialog systems,"There is a resurgent interest in developing intelligent open-domain dialog systems due to
+the availability of large amounts of conversational data and the recent progress on neural …",138회 인용
+10,A survey of reinforcement learning informed by natural language,"To be successful in real-world tasks, Reinforcement Learning (RL) needs to exploit the
+compositional, relational, and hierarchical structure of the world, and learn to transfer it to the …",134회 인용
+11,KILT: a benchmark for knowledge intensive language tasks,"Challenging problems such as open-domain question answering, fact checking, slot filling
+and entity linking require access to large, external knowledge sources. While some models …",130회 인용
+12,Learning to select knowledge for response generation in dialog systems,"End-to-end neural models for intelligent dialogue systems suffer from the problem of
+generating uninformative responses. Various methods were proposed to generate more …",122회 인용
+13,Knowledge-enriched transformer for emotion detection in textual conversations,"Messages in human conversations inherently convey emotions. The task of detecting
+emotions in textual conversations leads to a wide range of applications such as opinion …",117회 인용
+14,Proactive human-machine conversation with explicit conversation goals,"Though great progress has been made for human-machine conversation, current dialogue
+system is still in its infancy: it usually converses passively and utters words more as a matter …",113회 인용
+15,Plato: Pre-trained dialogue generation model with discrete latent variable,"Pre-training models have been proved effective for a wide range of natural language
+processing tasks. Inspired by this, we propose a novel dialogue generation pre-training …",111회 인용
+16,Autoregressive entity retrieval,"Entities are at the center of how we represent and aggregate knowledge. For instance,
+Encyclopedias such as Wikipedia are structured by entities (eg, one per Wikipedia article) …",104회 인용
+17,Can you put it all together: Evaluating conversational agents' ability to blend skills,"Being engaging, knowledgeable, and empathetic are all desirable general qualities in a
+conversational agent. Previous work has introduced tasks and datasets that aim to help …",95회 인용
+18,Acute-eval: Improved dialogue evaluation with optimized questions and multi-turn comparisons,"While dialogue remains an important end-goal of natural language research, the difficulty of
+evaluation is an oft-quoted reason why it remains troublesome to make real progress …",93회 인용
+19,Learning to speak and act in a fantasy text adventure game,"We introduce a large scale crowdsourced text adventure game as a research platform for
+studying grounded dialogue. In it, agents can perceive, emote, and act whilst conducting …",88회 인용
+20,Conversing by reading: Contentful neural conversation with on-demand machine reading,"Although neural conversation models are effective in learning how to produce fluent
+responses, their primary challenge lies in knowing what to say to make the conversation …",86회 인용
+21,Moel: Mixture of empathetic listeners,"Previous research on empathetic dialogue systems has mostly focused on generating
+responses given certain emotions. However, being empathetic not only requires the ability of …",81회 인용
+22,Don't Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training,"Generative dialogue models currently suffer from a number of problems which standard
+maximum likelihood training does not address. They tend to produce generations that (i) rely …",86회 인용
+23,Sequential latent knowledge selection for knowledge-grounded dialogue,"Knowledge-grounded dialogue is a task of generating an informative response based on
+both discourse context and external knowledge. As we focus on better modeling the …",83회 인용
+24,Knowledge-grounded dialogue generation with pre-trained language models,"We study knowledge-grounded dialogue generation with pre-trained language models. To
+leverage the redundant external knowledge under capacity constraint, we propose …",74회 인용
+25,Knowledge aware conversation generation with explainable reasoning over augmented graphs,"Two types of knowledge, triples from knowledge graphs and texts from documents, have
+been studied for knowledge aware open-domain conversation generation, in which graph …",73회 인용
+26,Incremental transformer with deliberation decoder for document grounded conversations,"Document Grounded Conversations is a task to generate dialogue responses when chatting
+about the content of a given document. Obviously, document knowledge plays a critical role …",67회 인용
+27,Towards conversational recommendation over multi-type dialogs,"We propose a new task of conversational recommendation over multi-type dialogs, where
+the bots can proactively and naturally lead a conversation from a non-recommendation …",62회 인용
+28,"The gem benchmark: Natural language generation, its evaluation and metrics","We introduce GEM, a living benchmark for natural language Generation (NLG), its
+Evaluation, and Metrics. Measuring progress in NLG relies on a constantly evolving …",53회 인용
+29,Retrieval augmentation reduces hallucination in conversation,"Despite showing increasingly human-like conversational abilities, state-of-the-art dialogue
+models often suffer from factual incorrectness and hallucination of knowledge (Roller et al …",54회 인용
+30,Kdconv: A chinese multi-domain dialogue dataset towards multi-turn knowledge-driven conversation,"The research of knowledge-driven conversational systems is largely limited due to the lack
+of dialog data which consist of multi-turn conversations on multiple topics and with …",52회 인용
+31,"Thinking globally, acting locally: Distantly supervised global-to-local knowledge selection for background based conversation","Background Based Conversation (BBCs) have been introduced to help conversational
+systems avoid generating overly generic responses. In a BBC, the conversation is grounded …",50회 인용
+32,A large-scale chinese short-text conversation dataset,"The advancements of neural dialogue generation models show promising results on
+modeling short-text conversations. However, training such models usually needs a large …",49회 인용
+33,A survey of knowledge-enhanced text generation,"The goal of text-to-text generation is to make machines express like a human in many
+applications such as conversation, summarization, and translation. It is one of the most …",48회 인용
+34,Image chat: Engaging grounded conversations,"To achieve the long-term goal of machines being able to engage humans in conversation,
+our models should captivate the interest of their speaking partners. Communication …",45회 인용
+35,Internet-augmented dialogue generation,"The largest store of continually updating knowledge on our planet can be accessed via
+internet search. In this work we study giving access to this information to conversational …",46회 인용
+36,"Generate, delete and rewrite: A three-stage framework for improving persona consistency of dialogue generation","Maintaining a consistent personality in conversations is quite natural for human beings, but
+is still a non-trivial task for machines. The persona-based dialogue generation task is thus …",43회 인용
+37,A controllable model of grounded response generation,"Current end-to-end neural conversation models inherently lack the flexibility to impose
+semantic control in the response generation process, often resulting in uninteresting …",39회 인용
+38,Lamda: Language models for dialog applications,"We present LaMDA: Language Models for Dialog Applications. LaMDA is a family of
+Transformer-based neural language models specialized for dialog, which have up to 137B …",48회 인용
+39,Hurdles to progress in long-form question answering,"The task of long-form question answering (LFQA) involves retrieving documents relevant to
+a given question and using them to generate a paragraph-length answer. While many …",43회 인용
+40,Beyond domain APIs: Task-oriented conversational modeling with unstructured knowledge access,"Most prior work on task-oriented dialogue systems are restricted to a limited coverage of
+domain APIs, while users oftentimes have domain related requests that are not covered by …",40회 인용
+41,Refnet: A reference-aware network for background based conversation,"Existing conversational systems tend to generate generic responses. Recently, Background
+Based Conversation (BBCs) have been introduced to address this issue. Here, the …",36회 인용
+42,The dialogue dodecathlon: Open-domain knowledge and image grounded conversational agents,"We introduce dodecaDialogue: a set of 12 tasks that measures if a conversational agent can
+communicate engagingly with personality and empathy, ask questions, answer questions by …",40회 인용
+43,Improving neural conversational models with entropy-based data filtering,"Current neural network-based conversational models lack diversity and generate boring
+responses to open-ended utterances. Priors such as persona, emotion, or topic provide …",36회 인용
+44,Multi-dimensional gender bias classification,"Machine learning models are trained to find patterns in data. NLP models can inadvertently
+learn socially undesirable patterns when training on gender biased text. In this work, we …",40회 인용
+45,Conversations with search engines: SERP-based conversational response generation,"In this article, we address the problem of answering complex information needs by
+conducting conversations with search engines, in the sense that users can express their …",36회 인용
+46,Bridging the gap between prior and posterior knowledge selection for knowledge-grounded dialogue generation,"Abstract Knowledge selection plays an important role in knowledge-grounded dialogue,
+which is a challenging task to generate more informative responses by leveraging external …",34회 인용
+47,Crossfit: A few-shot learning challenge for cross-task generalization in nlp,"Humans can learn a new language task efficiently with only few examples, by leveraging
+their knowledge obtained when learning prior tasks. In this paper, we explore whether and …",35회 인용
+48,Diversifying dialogue generation with non-conversational text,"Neural network-based sequence-to-sequence (seq2seq) models strongly suffer from the low-
+diversity problem when it comes to open-domain dialogue generation. As bland and generic …",34회 인용
+49,"Open-domain conversational agents: Current progress, open problems, and future directions","We present our view of what is necessary to build an engaging open-domain conversational
+agent: covering the qualities of such an agent, the pieces of the puzzle that have been built …",31회 인용
+50,Augmenting transformers with KNN-based composite memory for dialog,"Various machine learning tasks can benefit from access to external information of different
+modalities, such as text and images. Recent work has focused on learning architectures with …",32회 인용
+51,Dialogue transformers,"We introduce a dialogue policy based on a transformer architecture, where the self-attention
+mechanism operates over the sequence of dialogue turns. Recent work has used …",32회 인용
+52,Policy-driven neural response generation for knowledge-grounded dialogue systems,"Open-domain dialogue systems aim to generate relevant, informative and engaging
+responses. Seq2seq neural response generation approaches do not have explicit …",30회 인용
+53,Introducing MANtIS: a novel multi-domain information seeking dialogues dataset,"Conversational search is an approach to information retrieval (IR), where users engage in a
+dialogue with an agent in order to satisfy their information needs. Previous conceptual work …",31회 인용
+54,Beyond goldfish memory: Long-term open-domain conversation,"Despite recent improvements in open-domain dialogue models, state of the art models are
+trained and evaluated on short conversations with little context. In contrast, the long-term …",31회 인용
+55,Overview of the ninth dialog system technology challenge: Dstc9,"This paper introduces the Ninth Dialog System Technology Challenge (DSTC-9). This
+edition of the DSTC focuses on applying end-to-end dialog technologies for four distinct …",34회 인용
+56,Generating informative conversational response using recurrent knowledge-interaction and knowledge-copy,"Abstract Knowledge-driven conversation approaches have achieved remarkable research
+attention recently. However, generating an informative response with multiple relevant …",28회 인용
+57,AdaptSum: Towards low-resource domain adaptation for abstractive summarization,"State-of-the-art abstractive summarization models generally rely on extensive labeled data,
+which lowers their generalization ability on domains where such data are not available. In …",31회 인용
+58,Like hiking? you probably enjoy nature: Persona-grounded dialog with commonsense expansions,"Existing persona-grounded dialog models often fail to capture simple implications of given
+persona descriptions, something which humans are able to do seamlessly. For example …",29회 인용
+59,DialogSum: A real-life scenario dialogue summarization dataset,"Proposal of large-scale datasets has facilitated research on deep neural models for news
+summarization. Deep learning can also be potentially useful for spoken dialogue …",28회 인용
+60,Bridging text and video: A universal multimodal transformer for audio-visual scene-aware dialog,"Audio-Visual Scene-Aware Dialog (AVSD) is a task to generate responses when chatting
+about a given video, which is organized as a track of the 8th Dialog System Technology …",33회 인용
+61,Qa dataset explosion: A taxonomy of nlp resources for question answering and reading comprehension,"Alongside huge volumes of research on deep learning models in NLP in the recent years,
+there has been also much work on benchmark datasets needed to track modeling progress …",29회 인용
+62,"A survey of natural language generation techniques with a focus on dialogue systems-past, present and future directions","One of the hardest problems in the area of Natural Language Processing and Artificial
+Intelligence is automatically generating language that is coherent and understandable to …",26회 인용
+63,A document-grounded matching network for response selection in retrieval-based chatbots,"We present a document-grounded matching network (DGMN) for response selection that
+can power a knowledge-aware retrieval-based chatbot system. The challenges of building …",27회 인용
+64,Ext5: Towards extreme multi-task scaling for transfer learning,"Despite the recent success of multi-task learning and transfer learning for natural language
+processing (NLP), few works have systematically studied the effect of scaling up the number …",28회 인용
+65,Exploring controllable text generation techniques,"Neural controllable text generation is an important area gaining attention due to its plethora
+of applications. Although there is a large body of prior work in controllable text generation …",25회 인용
+66,Plug-and-play conversational models,"There has been considerable progress made towards conversational models that generate
+coherent and fluent responses; however, this often involves training large language models …",24회 인용
+67,Zero-resource knowledge-grounded dialogue generation,"While neural conversation models have shown great potentials towards generating
+informative and engaging responses via introducing external knowledge, learning such a …",28회 인용
+68,Dukenet: A dual knowledge interaction network for knowledge-grounded conversation,"Today's conversational agents often generate responses that not sufficiently informative.
+One way of making them more informative is through the use of of external knowledge …",25회 인용
+69,Controlling style in generated dialogue,"Open-domain conversation models have become good at generating natural-sounding
+dialogue, using very large architectures with billions of trainable parameters. The vast …",22회 인용
+70,"I like fish, especially dolphins: Addressing contradictions in dialogue modeling","To quantify how well natural language understanding models can capture consistency in a
+general conversation, we introduce the DialoguE COntradiction DEtection task (DECODE) …",21회 인용
+71,Conversational graph grounded policy learning for open-domain conversation generation,"To address the challenge of policy learning in open-domain multi-turn conversation, we
+propose to represent prior information about dialog transitions as a graph and learn a graph …",21회 인용
+72,Adding chit-chat to enhance task-oriented dialogues,"Existing dialogue corpora and models are typically designed under two disjoint motives:
+while task-oriented systems focus on achieving functional goals (eg, booking hotels), open …",23회 인용
+73,Learning a simple and effective model for multi-turn response generation with auxiliary tasks,"We study multi-turn response generation for open-domain dialogues. The existing state-of-
+the-art addresses the problem with deep neural architectures. While these models improved …",21회 인용
+74,Wizard of search engine: Access to information through conversations with search engines,"Conversational information seeking (CIS) is playing an increasingly important role in
+connecting people to information. Due to a lackof suitable resources, previous studies on …",20회 인용
+75,[HTML] Moviechats: Chat like humans in a closed domain,"Being able to perform in-depth chat with humans in a closed domain is a precondition before
+an open-domain chatbot can be ever claimed. In this work, we take a close look at the movie …",19회 인용
+76,: Evaluating Factual Consistency in Knowledge-Grounded Dialogues via Question Generation and Question Answering,"Neural knowledge-grounded generative models for dialogue often produce content that is
+factually inconsistent with the knowledge they rely on, making them unreliable and limiting …",21회 인용
+77,"Stay hungry, stay focused: Generating informative and specific questions in information-seeking conversations","We investigate the problem of generating informative questions in information-asymmetric
+conversations. Unlike previous work on question generation which largely assumes …",20회 인용
+78,Are neural open-domain dialog systems robust to speech recognition errors in the dialog history? an empirical study,"Large end-to-end neural open-domain chatbots are becoming increasingly popular.
+However, research on building such chatbots has typically assumed that the user input is …",17회 인용
+79,Increasing faithfulness in knowledge-grounded dialogue with controllable features,"Knowledge-grounded dialogue systems are intended to convey information that is based on
+evidence provided in a given source text. We discuss the challenges of training a generative …",17회 인용
+80,Gunrock 2.0: A user adaptive social conversational system,"Gunrock 2.0 is built on top of Gunrock with an emphasis on user adaptation. Gunrock 2.0
+combines various neural natural language understanding modules, including named entity …",16회 인용
+81,Learning to select external knowledge with multi-scale negative sampling,"The Track-1 of DSTC9 aims to effectively answer user requests or questions during task-
+oriented dialogues, which are out of the scope of APIs/DB. By leveraging external …",16회 인용
+82,Response-anticipated memory for on-demand knowledge integration in response generation,"Neural conversation models are known to generate appropriate but non-informative
+responses in general. A scenario where informativeness can be significantly enhanced is …",16회 인용
+83,Just say no: Analyzing the stance of neural dialogue generation in offensive contexts,"Dialogue models trained on human conversations inadvertently learn to generate toxic
+responses. In addition to producing explicitly offensive utterances, these models can also …",16회 인용
+84,An empirical investigation of pre-trained transformer language models for open-domain dialogue generation,"We present an empirical investigation of pre-trained Transformer-based auto-regressive
+language models for the task of open-domain dialogue generation. Training paradigm of pre …",14회 인용
+85,Know more about each other: Evolving dialogue strategy via compound assessment,"In this paper, a novel Generation-Evaluation framework is developed for multi-turn
+conversations with the objective of letting both participants know more about each other. For …",14회 인용
+86,Bot-adversarial dialogue for safe conversational agents,"Conversational agents trained on large unlabeled corpora of human interactions will learn
+patterns and mimic behaviors therein, which include offensive or otherwise toxic behavior …",13회 인용
+87,Conversations are not flat: Modeling the dynamic information flow across dialogue utterances,"Nowadays, open-domain dialogue models can generate acceptable responses according to
+the historical context based on the large-scale pre-trained language models. However, they …",13회 인용
+88,Learning to detect relevant contexts and knowledge for response selection in retrieval-based dialogue systems,"Recently, knowledge-grounded conversations in the open domain gain great attention from
+researchers. Existing works on retrieval-based dialogue systems have paid tremendous …",14회 인용
+89,Multiple knowledge syncretic transformer for natural dialogue generation,"Knowledge is essential for intelligent conversation systems to generate informative
+responses. This knowledge comprises a wide range of diverse modalities such as …",14회 인용
+90,Studying the effects of cognitive biases in evaluation of conversational agents,"Humans quite frequently interact with conversational agents. The rapid advancement in
+generative language modeling through neural networks has helped advance the creation of …",14회 인용
+91,Offline and online satisfaction prediction in open-domain conversational systems,"Predicting user satisfaction in conversational systems has become critical, as spoken
+conversational assistants operate in increasingly complex domains. Online satisfaction …",13회 인용
+92,Enhancing conversational dialogue models with grounded knowledge,"Leveraging external knowledge to enhance conversational models has become a popular
+research area in recent years. Compared to vanilla generative models, the knowledge …",12회 인용
+93,Towards continual knowledge learning of language models,"Large Language Models (LMs) are known to encode world knowledge in their parameters
+as they pretrain on a vast amount of web corpus, which is often utilized for performing …",12회 인용
+94,Knowledge-grounded chatbot based on dual wasserstein generative adversarial networks with effective attention mechanisms,"Featured Application Core technology for intelligent virtual assistants. Abstract A
+conversation is based on internal knowledge that the participants already know or external …",13회 인용
+95,Improving background based conversation with context-aware knowledge pre-selection,"Background Based Conversations (BBCs) have been developed to make dialogue systems
+generate more informative and natural responses by leveraging background knowledge …",12회 인용
+96,[PDF] Bart for knowledge grounded conversations,"Transformers have shown incredible capabilities for conversation modeling, however, they
+store factual knowledge in their learned parameters, which is costly to update with new …",12회 인용
+97,TIMEDIAL: Temporal commonsense reasoning in dialog,"Everyday conversations require understanding everyday events, which in turn, requires
+understanding temporal commonsense concepts interwoven with those events. Despite …",16회 인용
+98,Evaluating groundedness in dialogue systems: The begin benchmark,"Knowledge-grounded dialogue agents are systems designed to conduct a conversation
+based on externally provided background information, such as a Wikipedia page. Such …",12회 인용
+99,Retrieval-free knowledge-grounded dialogue response generation with adapters,"To diversify and enrich generated dialogue responses, knowledge-grounded dialogue has
+been investigated in recent years. The existing methods tackle the knowledge grounding …",14회 인용
+100,ALOHA: Artificial learning of human attributes for dialogue agents,"For conversational AI and virtual assistants to communicate with humans in a realistic way,
+they must exhibit human characteristics such as expression of emotion and personality …",12회 인용
+101,Deploying lifelong open-domain dialogue learning,"Much of NLP research has focused on crowdsourced static datasets and the supervised
+learning paradigm of training once and then evaluating test performance. As argued in de …",12회 인용
+102,Baleen: Robust multi-hop reasoning at scale via condensed retrieval,"Multi-hop reasoning (ie, reasoning across two or more documents) is a key ingredient for
+NLP models that leverage large corpora to exhibit broad knowledge. To retrieve evidence …",11회 인용
+103,[HTML] Augmenting knowledge-grounded conversations with sequential knowledge transition,"Abstract Knowledge data are massive and widespread in the real-world, which can serve as
+good external sources to enrich conversations. However, in knowledge-grounded …",11회 인용
+104,Efficient retrieval augmented generation from unstructured knowledge for task-oriented dialog,"This paper summarizes our work on the first track of the ninth Dialog System Technology
+Challenge (DSTC 9),"" Beyond Domain APIs: Task-oriented Conversational Modeling with …",12회 인용
+105,Conversational information seeking,"Conversational information seeking (CIS) is concerned with a sequence of interactions
+between one or more users and an information system. Interactions in CIS are primarily …",16회 인용
+106,[PDF] Challenges in the Evaluation of Conversational Search Systems.,"The area of conversational search has gained significant traction in the IR research
+community, motivated by the widespread use of personal assistants. An often researched …",10회 인용
+107,Improving conditioning in context-aware sequence to sequence models,"Neural sequence to sequence models are well established for applications which can be
+cast as mapping a single input sequence into a single output sequence. In this work, we …",10회 인용
+108,Filtering noisy dialogue corpora by connectivity and content relatedness,"Large-scale dialogue datasets have recently become available for training neural dialogue
+agents. However, these datasets have been reported to contain a non-negligible number of …",10회 인용
+109,Joint retrieval and generation training for grounded text generation,"Recent advances in large-scale pre-training such as GPT-3 allow seemingly high quality text
+to be generated from a given prompt. However, such generation systems often suffer from …",11회 인용
+110,Commonsense-Focused Dialogues for Response Generation: An Empirical Study,"Smooth and effective communication requires the ability to perform latent or explicit
+commonsense inference. Prior commonsense reasoning benchmarks (such as SocialIQA …",10회 인용
+111,Naturalconv: A chinese dialogue dataset towards multi-turn topic-driven conversation,"In this paper, we propose a Chinese multi-turn topic-driven conversation dataset,
+NaturalConv, which allows the participants to chat anything they want as long as any …",13회 인용
+112,OTTers: One-turn topic transitions for open-domain dialogue,"Mixed initiative in open-domain dialogue requires a system to pro-actively introduce new
+topics. The one-turn topic transition task explores how a system connects two topics in a …",11회 인용
+113,A large-scale analysis of mixed initiative in information-seeking dialogues for conversational search,"Conversational search is a relatively young area of research that aims at automating an
+information-seeking dialogue. In this article, we help to position it with respect to other …",11회 인용
+114,An analysis of mixed initiative and collaboration in information-seeking dialogues,"The ability to engage in mixed-initiative interaction is one of the core requirements for a
+conversational search system. How to achieve this is poorly understood. We propose a set …",9회 인용
+115,Highly parallel autoregressive entity linking with discriminative correction,"Generative approaches have been recently shown to be effective for both Entity
+Disambiguation and Entity Linking (ie, joint mention detection and disambiguation) …",12회 인용
+116,"Phrase retrieval learns passage retrieval, too","Dense retrieval methods have shown great promise over sparse retrieval methods in a
+range of NLP problems. Among them, dense phrase retrieval-the most fine-grained retrieval …",11회 인용
+117,Focused Attention Improves Document-Grounded Generation,"Document grounded generation is the task of using the information provided in a document
+to improve text generation. This work focuses on two different document grounded …",10회 인용
+118,Dialfact: A benchmark for fact-checking in dialogue,"Fact-checking is an essential tool to mitigate the spread of misinformation and
+disinformation, however, it has been often explored to verify formal single-sentence claims …",9회 인용
+119,[PDF] Enhancing dialog coherence with event graph grounded content planning,"How to generate informative, coherent and sustainable open-domain conversations is a non-
+trivial task. Previous work on knowledge grounded conversation generation focus on …",9회 인용
+120,Difference-aware knowledge selection for knowledge-grounded conversation generation,"In a multi-turn knowledge-grounded dialog, the difference between the knowledge selected
+at different turns usually provides potential clues to knowledge selection, which has been …",12회 인용
+121,"Compression, transduction, and creation: A unified framework for evaluating natural language generation","Natural language generation (NLG) spans a broad range of tasks, each of which serves for
+specific objectives and desires different properties of generated text. The complexity makes …",11회 인용
+122,Semantic representation for dialogue modeling,"Although neural models have achieved competitive results in dialogue systems, they have
+shown limited ability in representing core semantics, such as ignoring important entities. To …",10회 인용
+123,Hindsight: Posterior-guided training of retrievers for improved open-ended generation,"Many text generation systems benefit from using a retriever to retrieve passages from a
+textual knowledge corpus (eg, Wikipedia) which are then provided as additional context to …",10회 인용
+124,Eva: An open-domain chinese dialogue system with large-scale generative pre-training,"Although pre-trained language models have remarkably enhanced the generation ability of
+dialogue systems, open-domain Chinese dialogue systems are still limited by the dialogue …",10회 인용
+125,Beyond domain apis: Task-oriented conversational modeling with unstructured knowledge access track in dstc9,"Most prior work on task-oriented dialogue systems are restricted to a limited coverage of
+domain APIs, while users oftentimes have domain related requests that are not covered by …",8회 인용
+126,[HTML] Interview: Large-scale modeling of media dialog with discourse patterns and knowledge grounding,"In this work, we perform the first large-scale analysis of discourse in media dialog and its
+impact on generative modeling of dialog turns, with a focus on interrogative patterns and use …",9회 인용
+127,Pretrained language models for dialogue generation with multiple input sources,"Large-scale pretrained language models have achieved outstanding performance on
+natural language understanding tasks. However, it is still under investigating how to apply …",10회 인용
+128,Conversational semantic role labeling,"Semantic role labeling (SRL) aims to extract the arguments for each predicate in an input
+sentence. Traditional SRL can fail to analyze dialogues because it only works on every …",10회 인용
+129,[PDF] Knowledge-Aware Dialogue Generation via Hierarchical Infobox Accessing and Infobox-Dialogue Interaction Graph Network.,"Due to limited knowledge carried by queries, traditional dialogue systems often face the
+dilemma of generating boring responses, leading to poor user experience. To alleviate this …",8회 인용
+130,Multi-Modal Open-Domain Dialogue,"Recent work in open-domain conversational agents has demonstrated that significant
+improvements in model engagingness and humanness metrics can be achieved via …",13회 인용
+131,Towards empathetic dialogue generation over multi-type knowledge,"Enabling the machines with empathetic abilities to provide context-consistent responses is
+crucial on both semantic and emotional levels. The task of empathetic dialogue generation …",8회 인용
+132,Response quality in human-chatbot collaborative systems,"We report the results of a crowdsourcing user study for evaluating the effectiveness of
+human-chatbot collaborative conversation systems, which aim to extend the ability of a …",8회 인용
+133,Fluent response generation for conversational question answering,"Question answering (QA) is an important aspect of open-domain conversational agents,
+garnering specific research focus in the conversational QA (ConvQA) subtask. One notable …",9회 인용
+134,Heterogeneous graph reasoning for knowledge-grounded medical dialogue system,"Beyond the common difficulties faced in task-oriented dialogue system, medical dialogue
+has recently attracted increasing attention due to its huge application potential while posing …",8회 인용
+135,Keyword-guided neural conversational model,"We study the problem of imposing conversational goals/keywords on open-domain
+conversational agents, where the agent is required to lead the conversation to a target …",7회 인용
+136,Meta-evaluation of conversational search evaluation metrics,"Conversational search systems, such as Google assistant and Microsoft Cortana, enable
+users to interact with search systems in multiple rounds through natural language dialogues …",7회 인용
+137,XPersona: Evaluating multilingual personalized chatbot,"Personalized dialogue systems are an essential step toward better human-machine
+interaction. Existing personalized dialogue agents rely on properly designed conversational …",9회 인용
+138,The Web Is Your Oyster--Knowledge-Intensive NLP against a Very Large Web Corpus,"In order to address the increasing demands of real-world applications, the research for
+knowledge-intensive NLP (KI-NLP) should advance by capturing the challenges of a truly …",9회 인용
+139,A corpus of controlled opinionated and knowledgeable movie discussions for training neural conversation models,"Fully data driven Chatbots for non-goal oriented dialogues are known to suffer from
+inconsistent behaviour across their turns, stemming from a general difficulty in controlling …",8회 인용
+140,Learning to copy coherent knowledge for response generation,"Abstract Knowledge-driven dialog has shown remarkable performance to alleviate the
+problem of generating uninformative responses in the dialog system. However …",7회 인용
+141,Conditional text generation for harmonious human-machine interaction,"In recent years, with the development of deep learning, text-generation technology has
+undergone great changes and provided many kinds of services for human beings, such as …",10회 인용
+142,Conversations Powered by Cross-Lingual Knowledge,"Today's open-domain conversational agents increase the informativeness of generated
+responses by leveraging external knowledge. Most of the existing approaches work only for …",7회 인용
+143,Lost in conversation: A conversational agent based on the transformer and transfer learning,"State of the art in dialogue and conversational models is currently being attained with
+generative approaches. In this work, we present our winning solution for the ConvAI2 …",6회 인용
+144,Open domain dialogue generation with latent images,"We consider grounding open domain dialogues with images. Existing work assumes that
+both an image and a textual context are available, but image-grounded dialogues by nature …",6회 인용
+145,I love your chain mail! Making knights smile in a fantasy game world: Open-domain goal-oriented dialogue agents,"Dialogue research tends to distinguish between chit-chat and goal-oriented tasks. While the
+former is arguably more naturalistic and has a wider use of language, the latter has clearer …",6회 인용
+146,Multi-task learning of generation and classification for emotion-aware dialogue response generation,"For a computer to naturally interact with a human, it needs to be human-like. In this paper,
+we propose a neural response generation model with multi-task learning of generation and …",6회 인용
+147,Sketch-Fill-AR: A persona-grounded chit-chat generation framework,"Human-like chit-chat conversation requires agents to generate responses that are fluent,
+engaging and consistent. We propose Sketch-Fill-AR, a framework that uses a persona …",7회 인용
+148,[PDF] A Survey on Response Selection for Retrieval-based Dialogues.,"Building an intelligent dialogue system capable of naturally and coherently conversing with
+humans has been a long-standing goal of artificial intelligence. In the past decade, with the …",7회 인용
+149,The adapter-bot: All-in-one controllable conversational model,"Considerable progress has been made towards conversational models that generate
+coherent and fluent responses by training large language models on large dialogue …",6회 인용
+150,Text editing by command,"A prevailing paradigm in neural text generation is one-shot generation, where text is
+produced in a single step. The one-shot setting is inadequate, however, when the …",6회 인용
+151,[PDF] Dream technical report for the alexa prize 2019,"Building a dialogue system able to talk fluently and meaningfully in an open domain
+conversation is one of the foundational challenges in the field of AI. Recent progress in NLP …",6회 인용
+152,A simple and efficient multi-task learning approach for conditioned dialogue generation,"Conditioned dialogue generation suffers from the scarcity of labeled responses. In this work,
+we exploit labeled non-dialogue text data related to the condition, which are much easier to …",6회 인용
+153,[HTML] Approximation of response knowledge retrieval in knowledge-grounded dialogue generation,"This paper is concerned with improving dialogue generation models through injection of
+knowledge, eg, content relevant to the post that can increase the quality of responses. Past …",5회 인용
+154,Initiative-Aware Self-Supervised Learning for Knowledge-Grounded Conversations,"In the knowledge-grounded conversation (KGC) task systems aim to produce more
+informative responses by leveraging external knowledge. KGC includes a vital part …",6회 인용
+155,Rome was built in 1776: A case study on factual correctness in knowledge-grounded response generation,"Recently neural response generation models have leveraged large pre-trained transformer
+models and knowledge snippets to generate relevant and informative responses. However …",5회 인용
+156,A Multi-Persona Chatbot for Hotline Counselor Training,"Suicide prevention hotline counselors aid individuals during difficult times through millions
+of calls and chats. A chatbot cannot safely replace a counselor, but we explore whether a …",5회 인용
+157,HKA: A hierarchical knowledge attention mechanism for multi-turn dialogue system,"Generating informative responses by incorporating external knowledge into dialogue system
+attracts more and more attention. Most previous works facilitate single-turn dialogue system …",5회 인용
+158,The Adapter-Bot: All-In-One Controllable Conversational Model,"In this paper, we present the Adapter-Bot, a generative chat-bot that uses a fixed backbone
+conversational model such as DialGPT (Zhang et al. 2019) and triggers on-demand …",6회 인용
+159,Maria: A visual experience powered conversational agent,"Arguably, the visual perception of conversational agents to the physical world is a key way
+for them to exhibit the human-like intelligence. Image-grounded conversation is thus …",5회 인용
+160,Dynamic composition for conversational domain exploration,"We study conversational domain exploration (CODEX), where the user's goal is to enrich her
+knowledge of a given domain by conversing with an informative bot. Such conversations …",5회 인용
+161,Information seeking in the spirit of learning: A dataset for conversational curiosity,"Open-ended human learning and information-seeking are increasingly mediated by digital
+assistants. However, such systems often ignore the user's pre-existing knowledge …",7회 인용
+162,[HTML] Entity Resolution in Open-domain Conversations,"In recent years, incorporating external knowledge for response generation in open-domain
+conversation systems has attracted great interest. To improve the relevancy of retrieved …",7회 인용
+163,[PDF] Joint generation and bi-encoder for situated interactive multimodal conversations,"This paper presents our work on the fourth track in Dialog State Tracking Challenge 9–
+Situated Interactive MultiModal Conversations (SIMMC) challenge, which aims at building …",5회 인용
+164,Pednet: A persona enhanced dual alternating learning network for conversational response generation,"Endowing a chatbot with a personality is essential to deliver more realistic conversations.
+Various persona-based dialogue models have been proposed to generate personalized …",4회 인용
+165,Knowledge augmented dialogue generation with divergent facts selection,"The end-to-end open-domain dialogue system is a challenging task since the existing
+neural models suffer from the issue of trivial responses. Employing background knowledge …",4회 인용
+166,Am i me or you? state-of-the-art dialogue models cannot maintain an identity,"State-of-the-art dialogue models still often stumble with regards to factual accuracy and self-
+contradiction. Anecdotally, they have been observed to fail to maintain character identity …",4회 인용
+167,Interview: A large-scale open-source corpus of media dialog,"Existing conversational datasets consist either of written proxies for dialog or small-scale
+transcriptions of natural speech. We introduce'Interview': a large-scale (105K conversations) …",4회 인용
+168,On the influence of masking policies in intermediate pre-training,"Current NLP models are predominantly trained through a two-stage"" pre-train then fine-tune""
+pipeline. Prior work has shown that inserting an intermediate pre-training stage, using …",4회 인용
+169,A three-stage learning framework for low-resource knowledge-grounded dialogue generation,"Neural conversation models have shown great potentials towards generating fluent and
+informative responses by introducing external background knowledge. Nevertheless, it is …",4회 인용
+170,Evaluating empathetic chatbots in customer service settings,"Customer service is a setting that calls for empathy in live human agent responses. Recent
+advances have demonstrated how open-domain chatbots can be trained to demonstrate …",4회 인용
+171,Measuring attribution in natural language generation models,"With recent improvements in natural language generation (NLG) models for various
+applications, it has become imperative to have the means to identify and evaluate whether …",4회 인용
+172,Conversational Entity Linking: Problem Definition and Datasets,"Machine understanding of user utterances in conversational systems is of utmost importance
+for enabling engaging and meaningful conversations with users. Entity Linking (EL) is one of …",6회 인용
+173,[HTML] The amazing world of neural language generation,"Abstract Neural Language Generation (NLG)–using neural network models to generate
+coherent text–is among the most promising methods for automated text creation. Recent …",4회 인용
+174,Knowledge injection into dialogue generation via language models,"Dialogue generation has been successfully learned from scratch by neural networks, but
+tends to produce the same general response, eg,"" what are you talking about?"", in many …",5회 인용
+175,[PDF] Generating reasonable legal text through the combination of language modeling and question answering,"Due to the improvement of Language Modeling, the emerging NLP assistant tools aiming for
+text generation can greatly reduce the human workload on writing documents. However, the …",5회 인용
+176,A compare aggregate transformer for understanding document-grounded dialogue,"Unstructured documents serving as external knowledge of the dialogues help to generate
+more informative responses. Previous research focused on knowledge selection (KS) in the …",4회 인용
+177,The gutenberg dialogue dataset,"Large datasets are essential for neural modeling of many NLP tasks. Current publicly
+available open-domain dialogue datasets offer a trade-off between quality (eg, DailyDialog) …",5회 인용
+178,"Reason first, then respond: Modular generation for knowledge-infused dialogue","Large language models can produce fluent dialogue but often hallucinate factual
+inaccuracies. While retrieval-augmented models help alleviate this issue, they still face a …",4회 인용
+179,Learning to retrieve entity-aware knowledge and generate responses with copy mechanism for task-oriented dialogue systems,"Task-oriented conversational modeling with unstructured knowledge access, as track 1 of
+the 9th Dialogue System Technology Challenges (DSTC 9), requests to build a system to …",4회 인용
+180,Assessing political prudence of open-domain chatbots,"Politically sensitive topics are still a challenge for open-domain chatbots. However, dealing
+with politically sensitive content in a responsible, non-partisan, and safe behavior way is …",4회 인용
+181,Are pre-trained language models knowledgeable to ground open domain dialogues?,"We study knowledge-grounded dialogue generation with pre-trained language models.
+Instead of pursuing new state-of-the-art on benchmarks, we try to understand if the …",4회 인용
+182,Kecrs: Towards knowledge-enriched conversational recommendation system,"The chit-chat-based conversational recommendation systems (CRS) provide item
+recommendations to users through natural language interactions. To better understand …",5회 인용
+183,Think before you speak: Using self-talk to generate implicit commonsense knowledge for response generation,"Implicit knowledge, such as common sense, is key to fluid human conversations. Current
+neural response generation (RG) models are trained end-to-end, omitting unstated implicit …",5회 인용
+184,Acquisition of periodic events with person attributes,"In this paper, we aim to acquire “periodic events” that represent significant actions that are
+happened by groups of people in particular seasons or timing. Recently, the importance of …",4회 인용
+185,Addressing inquiries about history: An efficient and practical framework for evaluating open-domain chatbot consistency,"A good open-domain chatbot should avoid presenting contradictory responses about facts
+or opinions in a conversational session, known as its consistency capacity. However …",4회 인용
+186,Towards socially intelligent agents with mental state transition and human utility,"Building a socially intelligent agent involves many challenges, one of which is to track the
+agent's mental state transition and teach the agent to make rational decisions guided by its …",3회 인용
+187,WikiContradiction: Detecting Self-Contradiction Articles on Wikipedia,"While Wikipedia has been utilized for fact-checking and claim verification to debunk
+misinformation and disinformation, it is essential to either improve article quality and rule out …",3회 인용
+188,[HTML] Learning Health-Bots from Training Data that was Automatically Created using Paraphrase Detection and Expert Knowledge,"A key bottleneck for developing dialog models is the lack of adequate training data. Due to
+privacy issues, dialog data is even scarcer in the health domain. We propose a novel …",3회 인용
+189,[PDF] Knowledge-grounded dialogue generation with term-level de-noising,"Dialogue generation has been improved through injecting knowledge into generative
+models. However, addition of knowledge through simple selection of sentences or …",3회 인용
+190,Fusing task-oriented and open-domain dialogues in conversational agents,"The goal of building intelligent dialogue systems has largely been separately pursued under
+two paradigms: task-oriented dialogue (TOD) systems, which perform task-specific functions …",3회 인용
+191,[PDF] Conversational agent for aerospace question answering: A position paper,"This paper introduces a research problem currently faced in the use of conversational
+agents within the aerospace industry. The aerospace domain is characterized by products …",3회 인용
+192,Decomposed mutual information estimation for contrastive representation learning,"Recent contrastive representation learning methods rely on estimating mutual information
+(MI) between multiple views of an underlying context. Eg, we can derive multiple views of a …",6회 인용
+193,[HTML] CoLV: A collaborative latent variable model for knowledge-grounded dialogue generation,"Abstract Knowledge-grounded dialogue generation has achieved promising performance
+with the engagement of external knowledge sources. Typical approaches towards this task …",4회 인용
+194,Human Evaluation of Conversations is an Open Problem: comparing the sensitivity of various methods for evaluating dialogue agents,"At the heart of improving conversational AI is the open problem of how to evaluate
+conversations. Issues with automatic metrics are well known (Liu et al., 2016, arXiv …",4회 인용
+195,Knowledge enhanced fine-tuning for better handling unseen entities in dialogue generation,"Although pre-training models have achieved great success in dialogue generation, their
+performance drops dramatically when the input contains an entity that does not appear in …",3회 인용
+196,[HTML] Caire in dialdoc21: Data augmentation for information seeking dialogue system,"Abstract Information-seeking dialogue systems, including knowledge identification and
+response generation, aim to respond to users with fluent, coherent, and informative …",3회 인용
+197,Attribute Alignment: Controlling Text Generation from Pre-trained Language Models,"Large language models benefit from training with a large amount of unlabeled text, which
+gives them increasingly fluent and diverse generation capabilities. However, using these …",4회 인용
+198,Adapting to context-aware knowledge in natural conversation for multi-turn response selection,"Virtual assistants aim to build a human-like conversational agent. However, current human-
+machine conversations still cannot make users feel intelligent enough to build a continued …",3회 인용
+199,Evaluating human-AI hybrid conversational systems with chatbot message suggestions,"ABSTRACT AI chatbots can offer suggestions to help humans answer questions by reducing
+text entry effort and providing relevant knowledge for unfamiliar questions. We study whether …",5회 인용
+200,DIALKI: Knowledge Identification in Conversational Systems through Dialogue-Document Contextualization,"Identifying relevant knowledge to be used in conversational systems that are grounded in
+long documents is critical to effective response generation. We introduce a knowledge …",4회 인용
+201,CSAGN: Conversational structure aware graph network for conversational semantic role labeling,"Conversational semantic role labeling (CSRL) is believed to be a crucial step towards
+dialogue understanding. However, it remains a major challenge for existing CSRL parser to …",3회 인용
+202,Local knowledge powered conversational agents,"State-of-the-art conversational agents have advanced significantly in conjunction with the
+use of large transformer-based language models. However, even with these advancements …",3회 인용
+203,Language models that seek for knowledge: Modular search & generation for dialogue and prompt completion,"Language models (LMs) have recently been shown to generate more factual responses by
+employing modularity (Zhou et al., 2021) in combination with retrieval (Adolphs et al., 2021) …",4회 인용
+204,Human-like informative conversations: Better acknowledgements using conditional mutual information,"This work aims to build a dialogue agent that can weave new factual content into
+conversations as naturally as humans. We draw insights from linguistic principles of …",2회 인용
+205,On incorporating structural information to improve dialogue response generation,"We consider the task of generating dialogue responses from background knowledge
+comprising of domain specific resources. Specifically, given a conversation around a movie …",2회 인용
+206,[PDF] Towards grounded natural language proof generation,"When a student is working on a mathematical proof, it is often helpful to receive suggestions
+about how to proceed. To this end, we provide an initial study of two generation tasks in …",2회 인용
+207,[PDF] Bernard: A stateful neural open-domain socialbot,"We propose Bernard: a framework for an engaging open-domain socialbot. While the task of
+open-domain dialog generation remains a difficult one, we explore various strategies to …",2회 인용
+208,Knowledge-grounded dialogue generation with a unified knowledge representation,"Knowledge-grounded dialogue systems are challenging to build due to the lack of training
+data and heterogeneous knowledge sources. Existing systems perform poorly on unseen …",2회 인용
+209,[HTML] Knowledge-Grounded Dialogue Flow Management for Social Robots and Conversational Agents,"The article proposes a system for knowledge-based conversation designed for Social
+Robots and other conversational agents. The proposed system relies on an Ontology for the …",3회 인용
+210,A survey of controllable text generation using transformer-based pre-trained language models,"Controllable Text Generation (CTG) is emerging area in the field of natural language
+generation (NLG). It is regarded as crucial for the development of advanced text generation …",3회 인용
+211,I love your chain mail! making knights smile in a fantasy game world,"Dialogue research tends to distinguish between chit-chat and goal-oriented tasks. While the
+former is arguably more naturalistic and has a wider use of language, the latter has clearer …",2회 인용
+212,Survey of Hallucination in Natural Language Generation,"Natural Language Generation (NLG) has improved exponentially in recent years thanks to
+the development of deep learning technologies such as Transformer-based language …",3회 인용
+213,[PDF] Knowledge bridging for empathetic dialogue generation,"Lack of external knowledge makes empathetic dialogue systems difficult to perceive implicit
+emotions and learn emotional interactions from limited dialogue history. To address the …",3회 인용
+214,[PDF] Evaluation of a virtual agent in guiding users from the non-clinical population in self-attachment intervention,"To address the issue of mental health, therapy chatbots have been developed in recent
+years to deliver methods such as Cognitive Behavioural Therapy. Self-Attachment is an …",2회 인용
+215,FinChat: Corpus and evaluation setup for Finnish chat conversations on everyday topics,"Creating open-domain chatbots requires large amounts of conversational data and related
+benchmark tasks to evaluate them. Standardized evaluation tasks are crucial for creating …",2회 인용
+216,An evaluation protocol for generative conversational systems,"There is a multitude of novel generative models for open-domain conversational systems;
+however, there is no systematic evaluation of different systems. Systematic comparisons …",2회 인용
+217,Relational Memory-Augmented Language Models,"We present a memory-augmented approach to condition an autoregressive language model
+on a knowledge graph. We represent the graph as a collection of relation triples and retrieve …",3회 인용
+218,[PDF] End-to-End Document-Grounded Conversation with Encoder-Decoder Pre-Trained Language Model,"The first track of the Ninth Dialog System Technology Challenge (DSTC9),“Beyond Domain
+APIs: Task-Oriented Conversational Modeling with Unstructured Knowledge Access,” …",2회 인용
+219,FaithDial: A Faithful Benchmark for Information-Seeking Dialogue,"The goal of information-seeking dialogue is to respond to seeker queries with natural
+language utterances that are grounded on knowledge sources. However, dialogue systems …",2회 인용
+220,A Survey of Natural Language Generation,"This paper offers a comprehensive review of the research on Natural Language Generation
+(NLG) over the past two decades, especially in relation to data-to-text generation and text-to …",3회 인용
+221,"[PDF] Neural, neural everywhere: Controlled generation meets scaffolded, structured dialogue","In this paper, we present the second iteration of Chirpy Cardinal, an open-domain dialogue
+agent developed for the Alexa Prize SGC4 competition. Building on the success of the SGC3 …",2회 인용
+222,Autoregressive search engines: Generating substrings as document identifiers,"Knowledge-intensive language tasks require NLP systems to both provide the correct
+answer and retrieve supporting evidence for it in a given corpus. Autoregressive language …",3회 인용
+223,Read before generate! faithful long form question answering with machine reading,"Long-form question answering (LFQA) aims to generate a paragraph-length answer for a
+given question. While current work on LFQA using large pre-trained model for generation …",2회 인용
+224,[HTML] DialDoc 2021 Shared Task: Goal-Oriented Document-grounded Dialogue Modeling,"We present the results of Shared Task at Workshop DialDoc 2021 that is focused on
+document-grounded dialogue and conversational question answering. The primary goal of …",2회 인용
+225,Reasoning over Public and Private Data in Retrieval-Based Systems,"Users and organizations are generating ever-increasing amounts of private data from a wide
+range of sources. Incorporating private data is important to personalize open-domain …",2회 인용
+226,[PDF] Dialogue in the wild: Learning from a deployed role-playing game with humans and bots,"Much of NLP research has focused on crowdsourced static datasets and the supervised
+learning paradigm of training once and then evaluating test performance. As argued in de …",3회 인용
+227,Probing commonsense explanation in dialogue response generation,"Humans use commonsense reasoning (CSR) implicitly to produce natural and coherent
+responses in conversations. Aiming to close the gap between current response generation …",3회 인용
+228,A Knowledge Driven Dialogue Model With Reinforcement Learning,"In recent decades, many researchers pay a lot of attention on generating informative
+responses in end-to-end neural dialogue systems. In order to output the responses with …",2회 인용
+229,Exploiting text matching techniques for knowledge-grounded conversation,"Knowledge-grounded conversation models aim at generating informative responses for the
+given dialogue context, based on external knowledge. To generate an informative and …",2회 인용
+230,"Towards information-rich, logical dialogue systems with knowledge-enhanced neural models","Dialogue systems have made massive promising progress contributed by deep learning
+techniques and have been widely applied in our life. However, existing end-to-end neural …",3회 인용
+231,Posscore: A simple yet effective evaluation of conversational search with part of speech labelling,"Conversational search systems, such as Google Assistant and Microsoft Cortana, provide a
+new search paradigm where users are allowed, via natural language dialogues, to …",2회 인용
+232,Proposal Towards a Personalized Knowledge-powered Self-play Based Ensemble Dialog System,"This is the application document for the 2019 Amazon Alexa competition. We give an overall
+vision of our conversational experience, as well as a sample conversation that we would like …",2회 인용
+233,"Detecting and Classifying Malevolent Dialogue Responses: Taxonomy, Data and Methodology","Conversational interfaces are increasingly popular as a way of connecting people to
+information. Corpus-based conversational interfaces are able to generate more diverse and …",2회 인용
+234,Transferable persona-grounded dialogues via grounded minimal edits,"Grounded dialogue models generate responses that are grounded on certain concepts.
+Limited by the distribution of grounded dialogue data, models trained on such data face the …",2회 인용
+235,[HTML] Automated Data-Driven Generation of Personalized Pedagogical Interventions in Intelligent Tutoring Systems,"Intelligent tutoring systems (ITS) have been shown to be highly effective at promoting
+learning as compared to other computer-based instructional approaches. However, many …",4회 인용
+236,[HTML] How Robust are Fact Checking Systems on Colloquial Claims?,"Abstract Knowledge is now starting to power neural dialogue agents. At the same time, the
+risk of misinformation and disinformation from dialogue agents also rises. Verifying the …",2회 인용
+237,Transformer encoder-decoder モデルによる趣味雑談システムの構築,"PDF 閲覧時に認証を求められる記事がございます (発行後 1 年間) が, 研究会登録メンバー
+は無料で閲覧可能 です. 認証のための購読者番号やパスワードは オンライン会員情報管理 …",4회 인용
+238,[HTML] Augmenting Topic Aware Knowledge-Grounded Conversations with Dynamic Built Knowledge Graphs,"Dialog topic management and background knowledge selection are essential factors for the
+success of knowledge-grounded open-domain conversations. However, existing models are …",1회 인용
+239,Towards knowledge-grounded counter narrative generation for hate speech,"Tackling online hatred using informed textual responses-called counter narratives-has been
+brought under the spotlight recently. Accordingly, a research line has emerged to …",3회 인용
+240,[HTML] Think Before You Speak: Explicitly Generating Implicit Commonsense Knowledge for Response Generation,"Implicit knowledge, such as common sense, is key to fluid human conversations. Current
+neural response generation (RG) models are trained to generate responses directly …",1회 인용
+241,[HTML] A model of cross-lingual knowledge-grounded response generation for open-domain dialogue systems,"Research on open-domain dialogue systems that allow free topics is challenging in the field
+of natural language processing (NLP). The performance of the dialogue system has been …",1회 인용
+242,Augmenting Transformers with KNN-Based Composite Memory,"Various machine learning tasks can benefit from access to external information of different
+modalities, such as text and images. Recent work has focused on learning architectures with …",1회 인용
+243,Multi-sentence knowledge selection in open-domain dialogue,"Incorporating external knowledge sources effectively in conversations is a longstanding
+problem in open-domain dialogue research. The existing literature on open-domain …",1회 인용
+244,[PDF] Survey of Hallucination in Natural Language Generation,"Abstract 1 Contents 1 1 Introduction 3 2 Definitions 4 2.1 Categorization 4 2.2 Task
+Comparison 4 2.3 Terminology Clarification 5 3 Contributors to Hallucinations in NLG 7 3.1 …",1회 인용
+245,A survey of multi-task learning in natural language processing: Regarding task relatedness and training methods,"Multi-task learning (MTL) has become increasingly popular in natural language processing
+(NLP) because it improves the performance of related tasks by exploiting their …",1회 인용
+246,[PDF] Human-like informative conversations via conditional mutual information,"The goal of this work is to build a dialogue agent that can weave new factual content into
+conversations as naturally as humans. We draw insights from linguistic principles of …",1회 인용
+247,[HTML] Multi-turn dialogue-oriented pretrained question generation model,"In recent years, teaching machines to ask meaningful and coherent questions has attracted
+considerable attention in natural language processing. Question generation has found wide …",1회 인용
+248,[HTML] A bichannel transformer with context encoding for document-driven conversation generation in social media,"Along with the development of social media on the internet, dialogue systems are becoming
+more and more intelligent to meet users' needs for communication, emotion, and social …",2회 인용
+249,SideControl: Controlled open-domain dialogue generation via additive side networks,"Transformer-based pre-trained language models boost the performance of open-domain
+dialogue systems. Prior works leverage Transformer-based pre-trained language models to …",1회 인용
+250,CASA: Conversational Aspect Sentiment Analysis for Dialogue Understanding,"Dialogue understanding has always been a bottleneck for many conversational tasks, such
+as dialogue response generation and conversational question answering. To expedite the …",1회 인용
+251,TemporalWiki: A Lifelong Benchmark for Training and Evaluating Ever-Evolving Language Models,"Language Models (LMs) become outdated as the world changes; they often fail to perform
+tasks requiring recent factual information which was absent or different during training, a …",1회 인용
+252,MemBERT: Injecting Unstructured Knowledge into BERT,"Transformers changed modern NLP in many ways. However, they can hardly exploit domain
+knowledge, and like other blackbox models, they lack interpretability. Unfortunately …",1회 인용
+253,Diverse dialogue generation by fusing mutual persona-aware and self-transferrer,"In recent years, personalized dialogue generation has attracted researchers' attention due to
+its wide range of applications. Although there has been much excellent research, current …",1회 인용
+254,A unified pre-training framework for conversational ai,"In this work, we explore the application of PLATO-2 on various dialogue systems, including
+open-domain conversation, knowledge grounded dialogue, and task-oriented conversation …",1회 인용
+255,There Are a Thousand Hamlets in a Thousand People's Eyes: Enhancing Knowledge-grounded Dialogue with Personal Memory,"Knowledge-grounded conversation (KGC) shows great potential in building an engaging
+and knowledgeable chatbot, and knowledge selection is a key ingredient in it. However …",2회 인용
+256,Learning to improve persona consistency in conversation generation with information augmentation,"In an open-domain conversation system, maintaining consistent persona is a key factor to
+earn trust from users and engage users in the conversation. Existing methods suffer from the …",2회 인용
+257,Hierarchical multimodal attention for end-to-end audio-visual scene-aware dialogue response generation,"This work is extended from our participation in the 7 th Dialogue System Technology
+Challenge (DSTC7), where we participated in the Audio Visual Scene-aware Dialogue …",1회 인용
+258,Achieving reliable human assessment of open-domain dialogue systems,"Evaluation of open-domain dialogue systems is highly challenging and development of
+better techniques is highlighted time and again as desperately needed. Despite substantial …",1회 인용
+259,[PDF] What Did You Refer to? Evaluating Co-References in Dialogue,"Existing neural end-to-end dialogue models have limitations on exactly interpreting the
+linguistic structures, such as ellipsis, anaphor and co-reference, etc., in dialogue history …",1회 인용
+260,WeChat AI & ICT's Submission for DSTC9 Interactive Dialogue Evaluation Track,"We participate in the DSTC9 Interactive Dialogue Evaluation Track (Gunasekara et al. 2020)
+sub-task 1 (Knowledge Grounded Dialogue) and sub-task 2 (Interactive Dialogue). In sub …",1회 인용
+261,Multi-stage prompting for knowledgeable dialogue generation,"Existing knowledge-grounded dialogue systems typically use finetuned versions of a
+pretrained language model (LM) and large-scale knowledge bases. These models typically …",2회 인용
+262,Artefact retrieval: Overview of NLP models with knowledge base access,"Many NLP models gain performance by having access to a knowledge base. A lot of
+research has been devoted to devising and improving the way the knowledge base is …",1회 인용
+263,Learning to express in knowledge-grounded conversation,"Grounding dialogue generation by extra knowledge has shown great potentials towards
+building a system capable of replying with knowledgeable and engaging responses …",1회 인용
+264,[HTML] A Pre-training Strategy for Zero-Resource Response Selection in Knowledge-Grounded Conversations,"Recently, many studies are emerging towards building a retrieval-based dialogue system
+that is able to effectively leverage background knowledge (eg, documents) when conversing …",1회 인용
+265,[HTML] Learning towards conversational ai: A survey,"Recent years have witnessed a surge of interest in the field of open-domain dialogue.
+Thanks to the rapid development of social media, large dialogue corpus from the Internet …",1회 인용
+266,Distilling the knowledge of large-scale generative models into retrieval models for efficient open-domain conversation,"Despite the remarkable performance of large-scale generative models in open-domain
+conversation, they are known to be less practical for building real-time conversation systems …",1회 인용
+267,Knowledge infused decoding,"Pre-trained language models (LMs) have been shown to memorize a substantial amount of
+knowledge from the pre-training corpora; however, they are still limited in recalling factually …",1회 인용
+268,Goal-Oriented Knowledge-Driven Neural Dialog Generation System,"In this paper, we propose a goal-oriented knowledge-driven neural dialog generation
+system, which leads the conversation based on a knowledge graph. During the …",1회 인용
+269,Dialog Inpainting: Turning Documents into Dialogs,"Many important questions (eg"" How to eat healthier?"") require conversation to establish
+context and explore in depth. However, conversational question answering (ConvQA) …",1회 인용
+270,Multimodal dialogue response generation,"Responsing with image has been recognized as an important capability for an intelligent
+conversational agent. Yet existing works only focus on exploring the multimodal dialogue …",1회 인용
+271,[PDF] Language-based general action template for reinforcement learning agents,"Prior knowledge plays a critical role in decision-making, and humans preserve such
+knowledge in the form of natural language (NL). To emulate real-world decision-making …",1회 인용
+272,[PDF] Radboud University at TREC CAsT 2021,"This paper describes Radboud University's participation in the TREC Conversational
+Assistance Track (CAsT) 2021 for the manually rewritten utterances. We propose an entity …",1회 인용
+273,Eva2. 0: Investigating open-domain chinese dialogue systems with large-scale pre-training,"Large-scale pre-training has shown remarkable performance in building open-domain
+dialogue systems. However, previous works mainly focus on showing and evaluating the …",2회 인용
+274,[PDF] Follow alice into the rabbit hole: Giving dialogue agents understanding of human level attributes,"For conversational AI and virtual assistants to communicate with humans in a realistic way,
+they must exhibit human characteristics such as expression of emotion and personality …",1회 인용
+275,Deep latent-variable models for neural text generation,"Text generation aims to produce human-like natural language output for down-stream tasks.
+It covers a wide range of applications like machine translation, document summarization …",1회 인용
+276,[PDF] Situated interactive multimodal conversations (simmc) track at dstc9,"The SIMMC challenge at DSTC9 aims to lay the foundations for multimodal virtual assistant
+agents that can engage with the real-world, handle multimodal inputs, and perform …",1회 인용
+277,[책] Neural Generation of Open-Ended Text and Dialogue,"Abstract Advances in Deep Learning have enabled more fluent and flexible Natural
+Language Generation (NLG). While these neural generative systems achieved early …",1회 인용
+278,"Knowledge Science, Engineering and Management","The International Conference on Knowledge Science, Engineering and Management
+(KSEM) provides a forum for researchers in the broad areas of knowledge science …",1회 인용
+279,Generative Model Using Knowledge Graph for Document-Grounded Conversations,"Featured Application Core technology for document-grounded conversation. Abstract
+Document-grounded conversation (DGC) is a natural language generation task to generate …",1회 인용
+280,You only need one model for open-domain question answering,"Recent works for Open-domain Question Answering refer to an external knowledge base
+using a retriever model, optionally rerank the passages with a separate reranker model and …",1회 인용
+281,A Roadmap for Big Model,"With the rapid development of deep learning, training Big Models (BMs) for multiple
+downstream tasks becomes a popular paradigm. Researchers have achieved various …",1회 인용
+282,Attention and Graph Matching Network for Retrieval-Based Dialogue System with Domain Knowledge,"Building an effective and friendly human-machine dialogue system is one of the major
+challenges in Artificial Intelligence. This work proposes a new model named Graph and …",1회 인용
+283,An empirical study on deep neural network models for chinese dialogue generation,"The task of dialogue generation has attracted increasing attention due to its diverse
+downstream applications, such as question-answering systems and chatbots. Recently, the …",1회 인용
+284,Open Questions for Next Generation Chatbots,"Over the last few years, there has been a growing interest in developing chatbots that can
+converse intelligently with humans. For example, consider Microsoft's Xiaoice. It is a highly …",1회 인용
+285,Investigating non-local features for neural constituency parsing,"Thanks to the strong representation power of neural encoders, neural chart-based parsers
+have achieved highly competitive performance by using local features. Recently, it has been …",1회 인용
+286,"Towards information-rich, logical text generation with knowledge-enhanced neural models","Text generation system has made massive promising progress contributed by deep learning
+techniques and has been widely applied in our life. However, existing end-to-end neural …",1회 인용
+287,[HTML] Challenges to Open-Domain Constituency Parsing,"Neural constituency parsers have reached practical performance on news-domain
+benchmarks. However, their generalization ability to other domains remains weak. Existing …",1회 인용
+288,Unified Dialog Model Pre-training for Task-Oriented Dialog Understanding and Generation,"Recently, pre-training methods have shown remarkable success in task-oriented dialog
+(TOD) systems. However, most existing pre-trained models for TOD focus on either dialog …",1회 인용
+289,TRUE: Re-evaluating Factual Consistency Evaluation,"Grounded text generation systems often generate text that contains factual inconsistencies,
+hindering their real-world applicability. Automatic factual consistency evaluation may help …",2회 인용
+290,Improving the Applicability of Knowledge-Enhanced Dialogue Generation Systems by Using Heterogeneous Knowledge from Multiple Sources,"Traditional conversational systems can only access the given query during the response
+generation, leading to meaningless responses. To this end, researchers proposed to …",2회 인용
+291,Strong Influence of Responses in Training Dialogue Response Generator,"The sequence-to-sequence model is a widely used model for dialogue response
+generators, but it tends to generate safe responses for most input queries. Since safe …",1회 인용
+292,Generating diverse conversation responses by creating and ranking multiple candidates,"This paper introduces our systems built for Track 2 of Dialog System Technology Challenge
+7 (DSTC7). This challenge track aimed to evaluate the response generation methods using …",1회 인용
+293,aoba_v2 bot: 多様な応答生成モジュールを統合した雑談対話システム,"抄録 本稿では対話システムライブコンペティション 4 のオープントラックに提出したシステム
+について述べる. 本システムは, 応答生成機構と応答フィルタリング機構から構成される …",2회 인용
+294,学習データの違いに対する Transformer Encoder-decoder 対話モデルの応答変化の分析,"抄録 近年, Transformer Encoder-decoder モデルを SNS 等の大規模なテキスト対話データで
+事前学習し用いることで, 自然な対話を実現する手法が盛んに研究されている …",1회 인용
+295,大規模深層学習による日本語雑談対話システムの到達点と課題,"我々は日々, 周りの人々との雑談を楽しみながら生活している. このような, 人の対話欲求を充足
+させることを目的とするシステムを雑談対話システムと呼ぶ. システムとの対話は場所や時間に制約 …",1회 인용
+296,[PDF] 自然语言预训练模型知识增强方法综述,"将知识引入到依靠数据驱动的人工智能模型中是实现人机混合智能的一种重要途径.
+当前以BERT 为代表的预训练模型在自然语言处理领域取得了显著的成功, 但是由于预训练模型 …",1회 인용
+297,Towards a Universal NLG for Dialogue Systems and Simulators with Future Bridging,"In a dialogue system pipeline, a natural language generation (NLG) unit converts the
+dialogue direction and content to a corresponding natural language realization. A recent …",관련 학술자료
+298,KETOD: Knowledge-Enriched Task-Oriented Dialogue,"Existing studies in dialogue system research mostly treat task-oriented dialogue and chit-
+chat as separate domains. Towards building a human-like assistant that can converse …",1회 인용
+299,TABi: Type-Aware Bi-Encoders for Open-Domain Entity Retrieval,"Entity retrieval--retrieving information about entity mentions in a query--is a key step in open-
+domain tasks, such as question answering or fact checking. However, state-of-the-art entity …",관련 학술자료
